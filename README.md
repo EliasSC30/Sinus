@@ -1,3 +1,2 @@
-Last  Test
-But I wanna add one more line
+Now I changed the file
 
