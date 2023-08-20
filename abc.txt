@@ -1,2 +1,0 @@
-Here some local changes
-And now I want to provocate a fetch conflict.
