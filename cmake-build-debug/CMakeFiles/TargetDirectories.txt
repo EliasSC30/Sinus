@@ -1,0 +1,3 @@
+/Users/I573040/CLionProjects/Sinus/cmake-build-debug/CMakeFiles/Sinus.dir
+/Users/I573040/CLionProjects/Sinus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/I573040/CLionProjects/Sinus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
